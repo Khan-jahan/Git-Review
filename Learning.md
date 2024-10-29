@@ -20,3 +20,14 @@
 
 8. Contribution 
    - Thirty Party repo. Fork => Then clone 
+
+9. Github page 
+9. github issue + git ignore + Readme.md + node modules
+11. Git merge vs Git rebase 
+12. Advance : 
+   - github action (CI/CD)
+   - git flow / github flow, Trunk Basked Development
+   - Rewarting History : git reflog, git filter-branch, git cherry-pick
+   - Performance and Optimization : Shallow clone, partial clones.
+   - undo changes (working dirretory -> stagging area -> local repo-> remote repo)
+
