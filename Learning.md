@@ -15,3 +15,8 @@
    
 6. Merge Conflict Resolve by command.
    - Merge Conflict resolve on github.
+7. git collabrotation 
+   - as a Collaborators clone the repository & changes then push the remote repo.
+
+8. Contribution 
+   - Thirty Party repo. Fork => Then clone 
