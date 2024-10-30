@@ -29,12 +29,5 @@
    - git flow / github flow, Trunk Basked Development
    - Rewarting History : git reflog, git filter-branch, git cherry-pick
    - Performance and Optimization : Shallow clone, partial clones.
-   - undo changes 
-        (working dirretory  -> stagging area-> local repo-> remote repo).
-      - git checkout --. or file name (Discard changes in the working directory)
-      - git reset head . or file name (For unstaging)
-      - git reset -hard head (For unstaging & Discard changes in the working directory )
-      - git commit --amend (For Commit message changes)
-      - git revert head (Undo the letest commit)
-      - git reset --hard commit id. (To go privious commit.)
-      - git revert commit ID  (to undo push repo.)
+   - undo changes (working dirretory -> stagging area -> local repo-> remote repo)
+
